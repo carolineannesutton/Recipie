@@ -3,4 +3,5 @@
 * squeeze lime
 * add salt
 * chop tomatoe
+* add garlic
 * add and mix well
